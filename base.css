@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+}
+.valign-wrapper{
+	height: 100%;
+}
+#k3{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#fam{
+	font-size: 2em;
+}
+#fam2{
+	font-size: 2em;
+}
+#fam3{
+	font-size: 2em;}
+main{
+	margin-top: 0;
+}	
+form{
+	color:black;
+}
+#a1,#a2,#a3,#a4,#a5,#a6{
+	color:#1a237e;
+}
+#m1,#m2{
+	padding-left: 35px;
+}
+.section{
+	padding-top: 50px;
+}
+@media screen and (min-width: 720px)
+{
+	#hobbies{
+		padding-left: 30px;
+	}
+	#projects{
+		padding-left: 40px;
+	}
+
+}
